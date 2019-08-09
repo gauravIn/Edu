@@ -123,3 +123,36 @@ sudo apt-get update
 clear
 du -h
 df -h
+clear
+ll
+git rm c.java
+git status
+git commit -m "New File Deleted"
+git status
+git rm --cached d.java
+git status
+ls -lrth
+ll
+ls -lrth
+git commit -m "Requested fils deleted"
+git status
+cd mkdir ankur
+mkdir ankur
+cd ankur
+touch an1.java
+cd ~
+git status
+git add .
+gt status
+git status
+git commit -m " New"
+git status
+ls -lrth
+vi .gitignore
+git status
+git add .
+git status
+git commit -m "Ignore"
+ls -lrth
+touch cc.java
+clear
