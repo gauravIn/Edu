@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1565271721,,"wq"
+|2,0,1565331144,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,49 @@
 # Registers:
 
 # File marks:
-'0  1  5  ~/b.java
-|4,48,1,5,1565271721,"~/b.java"
-'1  1  10  ~/a.java
-|4,49,1,10,1565271574,"~/a.java"
-'2  1  4  ~/a.java
-|4,50,1,4,1565267652,"~/a.java"
+'0  3  5  ~/.gitignore
+|4,48,3,5,1565331144,"~/.gitignore"
+'1  1  5  ~/b.java
+|4,49,1,5,1565271721,"~/b.java"
+'2  1  10  ~/a.java
+|4,50,1,10,1565271574,"~/a.java"
+'3  1  4  ~/a.java
+|4,51,1,4,1565267652,"~/a.java"
 
 # Jumplist (newest first):
+-'  3  5  ~/.gitignore
+|4,39,3,5,1565331144,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1565331077,"~/.gitignore"
+-'  1  5  ~/b.java
+|4,39,1,5,1565271721,"~/b.java"
 -'  1  5  ~/b.java
 |4,39,1,5,1565271721,"~/b.java"
 -'  1  10  ~/a.java
 |4,39,1,10,1565271574,"~/a.java"
 -'  1  10  ~/a.java
 |4,39,1,10,1565271574,"~/a.java"
+-'  1  10  ~/a.java
+|4,39,1,10,1565271574,"~/a.java"
+-'  1  10  ~/a.java
+|4,39,1,10,1565271574,"~/a.java"
+-'  1  4  ~/a.java
+|4,39,1,4,1565267652,"~/a.java"
+-'  1  4  ~/a.java
+|4,39,1,4,1565267652,"~/a.java"
 -'  1  4  ~/a.java
 |4,39,1,4,1565267652,"~/a.java"
 -'  1  4  ~/a.java
 |4,39,1,4,1565267652,"~/a.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1565331142	0
+	"	3	5
+	^	3	6
+	.	3	4
+	+	3	4
 
 > ~/b.java
 	*	1565271718	0
